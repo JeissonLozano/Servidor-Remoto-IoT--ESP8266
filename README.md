@@ -6,7 +6,7 @@ Este código pertenece al microcontrolador esp8266 de una serie de IoT, en esta 
 ![ESQUEMA DE CONEXIÓN ESP8266](https://github.com/JeissonLozano/Servidor-Remoto-IoT--ESP8266/blob/master/Conexi%C3%B3n%20AWS.png)
  
 # A continuación video paso a paso de instalación y creación de un servidor de forma local IoT:
-[![](http://img.youtube.com/vi/SMA4ok8lX1c/0.jpg)](https://youtu.be/tKb1fhK6npc "Servidor remoto AWS IoT: MQTT-WebSocket")
+[![](http://img.youtube.com/vi/tKb1fhK6npc/0.jpg)](https://youtu.be/tKb1fhK6npc "Servidor remoto AWS IoT: MQTT-WebSocket")
 
 # Listado de comandos usados:
 
